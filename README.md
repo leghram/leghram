@@ -7,7 +7,7 @@
 <div align=center>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Miguel+Paricahua+Lopez;Welcome+to+my+profile!;I'm+a+Full+Stack+Developer;AI+enthusiast" alt="Typing SVG" /></a> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=I'm+Miguel+Paricahua+Lopez;Welcome+to+my+profile!;I'm+a+Full+Stack+Developer;AI+enthusiast;Nice+to+Meet+You!!!...)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=A89568&size=60&center=true&vCenter=true&width=900&height=100&lines=I'm+Miguel+Paricahua+Lopez;Welcome+to+my+profile!;I'm+a+Full+Stack+Developer;AI+enthusiast;Nice+to+Meet+You!!!...)]
 
 </div>
 
